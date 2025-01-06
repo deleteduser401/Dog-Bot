@@ -48,13 +48,6 @@ def getRandomSticker(url: str, min_length: int = 3, max_length: int = 7) -> str:
 
 # Кнопка для при нажатии на которую будет отправляться новая собачка
 
-
-import discord
-import requests
-import time
-from discord.ui import Button, View
-from io import BytesIO
-
 class AnotherDogButton(Button):
     def __init__(self):
         super().__init__(label="Another 🐶", style=discord.ButtonStyle.primary)
