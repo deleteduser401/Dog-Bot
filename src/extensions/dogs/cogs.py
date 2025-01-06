@@ -83,7 +83,8 @@ class AnotherDogButton(Button):
             color=0xFFFFFF
         )
         embed.set_image(url="attachment://dogImage.jpg")
-        embed.set_footer(text=f"**request took: {maxRequestTime:.2f}ms**")
+        embed.set_footer(text=f"Request took {round(maxRequestTime)} ms")
+
 
         view = View()
         view.add_item(AnotherDogButton())
@@ -128,7 +129,7 @@ class DogCog(commands.Cog):
             color=0xFFFFFF
         )
         embed.set_image(url="attachment://dogImage.jpg")
-        embed.set_footer(text=f"Max request time: {maxRequestTime:.2f}ms")
+        embed.set_footer(text=f"Request took {round(maxRequestTime)} ms")
 
         view = View()
         view.add_item(AnotherDogButton())
