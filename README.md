@@ -13,11 +13,11 @@
 1. Убедитесь, что у вас установлен Docker.
 2. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/deleteduser401/Dog-Bot.git
+   git clone https://github.com/deleteduser401/Dog-Bot-Discord.git
    ```
 3. Перейдите в папку с проектом:
    ```bash
-   cd Dog-Bot
+   cd Dog-Bot-Discord
    ```
 4. Соберите и запустите контейнер:
    ```bash
@@ -31,11 +31,11 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/deleteduser401/Dog-Bot.git
+   git clone https://github.com/deleteduser401/Dog-Bot-Discord.git
    ```
 2. Перейдите в папку с проектом:
    ```bash
-   cd Dog-Bot
+   cd Dog-Bot-Discord
    ```
 3. Создайте и активируйте виртуальное окружение:
    ```bash
