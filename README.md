@@ -65,7 +65,7 @@
 
 Пример того, как может выглядеть сообщение бота в Discord:
 
-![dogImage](https://i.postimg.cc/44hFMygd/image.png)
+https://i.postimg.cc/44hFMygd/image.png
 
 ## Лицензия
 
