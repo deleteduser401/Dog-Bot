@@ -13,7 +13,7 @@
 1. Убедитесь, что у вас установлен Docker.
 2. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/deleteduser401/Dog-Bot-Discord.git
+   git clone https://github.com/deleteduser404/Dog-Bot-Discord.git
    ```
 3. Перейдите в папку с проектом:
    ```bash
@@ -31,7 +31,7 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/deleteduser401/Dog-Bot-Discord.git
+   git clone https://github.com/deleteduser404/Dog-Bot-Discord.git
    ```
 2. Перейдите в папку с проектом:
    ```bash
